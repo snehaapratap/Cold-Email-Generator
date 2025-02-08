@@ -2,7 +2,6 @@
 
 An AI-powered Cold Email Generator that creates **personalized email templates** for specific job openings. It analyzes job descriptions and tailors professional emails that stand out. 💼📩
 
----
 
 ## 🌟 Features  
 ✅ **AI-Powered** – Uses NLP to craft compelling emails  
@@ -10,7 +9,6 @@ An AI-powered Cold Email Generator that creates **personalized email templates**
 ✅ **Auto-Formatting** – Ensures proper structure and tone  
 ✅ **Quick & Easy** – Generate emails in seconds  
 
----
 
 ## 📂 Project Structure  
 ```
@@ -44,7 +42,6 @@ cd cold-email-generator
 OPENAI_API_KEY=your_api_key_here
 ```
 
----
 
 ## 🎯 Usage  
 ### **Run the Cold Email Generator**
@@ -54,14 +51,13 @@ streamlit python main.py
 - Input a **job description** or **company details**  
 - Get a **personalized cold email** instantly!  
 
----
+
 
 ## 🎯 To-Do List 🛠  
 - Add more email templates  
 - Improve personalization using LinkedIn data  
 - Integrate with job boards (Indeed, LinkedIn API)  
 
----
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to **fork** this repo, create a new branch, and submit a **pull request**.  
