@@ -37,9 +37,9 @@ cd cold-email-generator
 
 ### **2️⃣ Set Up API Keys**  
 - Create a `.env` file in the root directory.
-- Add your OpenAI API key:  
+- Add your GROQ API key:  
 ```env
-OPENAI_API_KEY=your_api_key_here
+GROQ_API_KEY="your_groq_api_key_here"
 ```
 
 
